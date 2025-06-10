@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a freshman studying computer science at Concordia University Nebraska. I am a member of their programming team as well. I also participate in many worship oppurtunities and the wind symphony.
+I'm currently a sophomore studying computer science at Concordia University Nebraska. I am a member of their programming team as well. I also participate in many worship and music opportunities.
 
 
 ## 🌐 Socials:
