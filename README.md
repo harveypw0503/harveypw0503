@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a sophomore studying computer science at Concordia University Nebraska. I am a member of their programming team as well. I also participate in many worship and music opportunities.
+I'm currently a supersenior studying graphic desgn with a marketing and computer science minors at Concordia University Nebraska.
 
 
 ## 🌐 Socials:
