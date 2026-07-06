@@ -29,6 +29,7 @@ I'm **Harvey Walter**, a graphic design major and multi-disciplinary creator wor
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logoColor=white)
 ![Pixilart](https://img.shields.io/badge/Pixilart-2D2D2D?style=for-the-badge)
 ![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ### 🌐 Web Development
 ![HTML](https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white)
