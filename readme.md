@@ -18,6 +18,7 @@ I'm **Harvey Walter**, a graphic design major and multi-disciplinary creator wor
 ![Lightroom Classic](https://img.shields.io/badge/Lightroom%20Classic-31A8FF?style=for-the-badge&logo=adobelightroomclassic&logoColor=white)
 ![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
 ![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
+![media Encoder](https://img.shields.io/badge/Media%20Encoder-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
 ![Acrobat](https://img.shields.io/badge/Acrobat-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)
 ![Audition](https://img.shields.io/badge/%20Audition-00E4BB?style=for-the-badge&logo=audition&logoColor=black)
 
