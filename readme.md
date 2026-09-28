@@ -40,9 +40,9 @@ I'm **Harvey Walter**, a graphic design major and multi-disciplinary creator wor
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge)
+![JSON](https://img.shields.io/badge/JSON-f7df1e?style=for-the-badge&logoColor=black&logo=%7B%7D)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge)
+![YAML](https://img.shields.io/badge/YAML-6C63FF?style=for-the-badge&logoColor=white&logo=%21)
 
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Modern CSV](https://img.shields.io/badge/Modern%20CSV-2E8B57?style=for-the-badge)
