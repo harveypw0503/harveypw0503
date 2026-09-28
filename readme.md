@@ -21,9 +21,9 @@ I'm **Harvey Walter**, a graphic design major and multi-disciplinary creator wor
 ![Acrobat](https://img.shields.io/badge/Acrobat-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)
 ![Audition](https://img.shields.io/badge/%20Audition-00E4BB?style=for-the-badge&logo=audition&logoColor=black)
 
-![Affinity Designer](https://img.shields.io/badge/Affinity%20Designer-1B72BE?style=for-the-badge&logo=affinitydesigner&logoColor=white)
-![Affinity Photo](https://img.shields.io/badge/Affinity%20Photo-7A4FFF?style=for-the-badge&logo=affinityphoto&logoColor=white)
-![Affinity Publisher](https://img.shields.io/badge/Affinity%20Publisher-3F9CFF?style=for-the-badge&logo=affinitypublisher&logoColor=white)
+![Affinity Designer](https://img.shields.io/badge/Affinity%20Designer-A7F175?style=for-the-badge&logo=affinitydesigner&logoColor=white)
+![Affinity Photo](https://img.shields.io/badge/Affinity%20Photo-A7F175?style=for-the-badge&logo=affinityphoto&logoColor=white)
+![Affinity Publisher](https://img.shields.io/badge/Affinity%20Publisher-A7F175?style=for-the-badge&logo=affinitypublisher&logoColor=white)
 
 ![Tinkercad](https://img.shields.io/badge/Tinkercad-1477D1?style=for-the-badge)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logoColor=white)
