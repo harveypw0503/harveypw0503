@@ -40,7 +40,9 @@ I'm **Harvey Walter**, a graphic design major and multi-disciplinary creator wor
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge)
 
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Modern CSV](https://img.shields.io/badge/Modern%20CSV-2E8B57?style=for-the-badge)
@@ -66,7 +68,7 @@ I'm **Harvey Walter**, a graphic design major and multi-disciplinary creator wor
 
 ### 🥽 3D Printing
 ![Cura](https://img.shields.io/badge/Cura-00A3E0?style=for-the-badge&logo=ultimaker&logoColor=white)
-![Bambu Lab](https://img.shields.io/badge/Bambu%20Lab-000000?style=for-the-badge&logoColor=white)
+![Bambu Labs](https://img.shields.io/badge/Bambu%20Lab-000000?style=for-the-badge&logoColor=white)
 ![Ender 3](https://img.shields.io/badge/Ender%203-ED1C24?style=for-the-badge)
 
 ---
