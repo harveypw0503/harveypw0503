@@ -67,7 +67,7 @@ I'm **Harvey Walter**, a graphic design major and multi-disciplinary creator wor
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
 
 ### 🥽 3D Printing
-![Cura](https://img.shields.io/badge/Cura-054761?style=for-the-badge&logo=ultimaker&logoColor=white)
+![Cura](https://img.shields.io/badge/Cura-4166F5?style=for-the-badge&logo=ultimaker&logoColor=white)
 ![Bambu Labs](https://img.shields.io/badge/Bambu%20Lab-00AE42?style=for-the-badge&logoColor=white)
 ![Ender 3](https://img.shields.io/badge/Ender%203-1E1E1E?style=for-the-badge)
 
