@@ -25,8 +25,8 @@ I'm **Harvey Walter**, a graphic design major and multi-disciplinary creator wor
 ![Affinity Photo](https://img.shields.io/badge/Affinity%20Photo-A7F175?style=for-the-badge&logo=affinityphoto&logoColor=white)
 ![Affinity Publisher](https://img.shields.io/badge/Affinity%20Publisher-A7F175?style=for-the-badge&logo=affinitypublisher&logoColor=white)
 
-![Tinkercad](https://img.shields.io/badge/Tinkercad-1477D1?style=for-the-badge)
-![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logoColor=white)
+![Tinkercad](https://img.shields.io/badge/Tinkercad-000000?style=for-the-badge&logo=tinkercad&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E51224?style=for-the-badge&logo=autodesk&logoColor=white)
 ![Pixilart](https://img.shields.io/badge/Pixilart-2D2D2D?style=for-the-badge)
 ![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
